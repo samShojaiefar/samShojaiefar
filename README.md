@@ -31,5 +31,5 @@ I'm a frontend developer building clean, modern, user-friendly web experiences w
 
 
 ## Contact Me
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sam_Shojaiefar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sam-shojaiefar-8a752229b/)
 [![Telegram](https://img.shields.io/badge/Telegram-Contact_Me-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/samShojaeifar)
