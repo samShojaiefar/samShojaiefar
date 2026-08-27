@@ -5,7 +5,9 @@ I'm a frontend developer building clean, modern, user-friendly web experiences w
 <code>Frontend Developer</code> · <code>Software Developer</code> · <code>React & Next.js</code>
 
 <br>
-
+<code>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=800&color=000000&center=false&vCenter=true&width=400&lines=Frontend+Developer;Software+Developer;React+%26+Next.js" alt="Typing animation" />
+</code>
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
