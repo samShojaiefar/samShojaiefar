@@ -3,7 +3,7 @@
 I'm a frontend developer building clean, modern, user-friendly web experiences while exploring AI to create smarter solutions.
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=100&pause=1000&color=FFFFFF&background=1f1f1f&center=false&vCenter=true&width=250&height=30&lines=%60Frontend+Developer%60;%60Software+Developer%60;%60React+%26+Next.js%60&delete=true&deleteDelay=500" alt="Typing animation">
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2000&pause=800&color=fff&vCenter=true&width=350&lines=Frontend+Developer;Software+Developer;React+%26+Next.js" alt="Typing animation">
 </p>
 
 <br>
