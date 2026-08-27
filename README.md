@@ -1,6 +1,6 @@
 # Hi, I'm Sam
 
-I'm a frontend developer passionate about building clean, modern, and user-friendly web experiences while exploring AI to learn faster and create smarter solutions.
+I'm a frontend developer passionate about building clean, modern, and user-friendly web experiences while exploring AI to create smarter solutions.
 
 <code>Frontend Developer</code> · <code>Software Developer</code> · <code>React & Next.js</code>
 
@@ -13,7 +13,7 @@ I'm a frontend developer passionate about building clean, modern, and user-frien
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-00DC82?style=flat-square&logo=nuxt&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white)
 
