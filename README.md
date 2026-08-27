@@ -1,4 +1,4 @@
-# Hi, I'm Sam 👋
+# Hi, I'm Sam
 
 I'm interested in technology, software development, and using AI to build and learn more effectively.
 
@@ -36,6 +36,6 @@ I'm interested in technology, software development, and using AI to build and le
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 
-## 📬 Contact Me
+## Contact Me
 
 [![Telegram](https://img.shields.io/badge/Telegram-Contact_Me-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/YOUR_USERNAME)
