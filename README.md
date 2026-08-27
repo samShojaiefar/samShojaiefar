@@ -1,6 +1,6 @@
 # Hi, I'm Sam
 
-I'm a frontend developer passionate about building clean, modern, and user-friendly web experiences while exploring AI to create smarter solutions.
+I'm a frontend developer building clean, modern, user-friendly web experiences while exploring AI to create smarter solutions.
 
 <code>Frontend Developer</code> · <code>Software Developer</code> · <code>React & Next.js</code>
 
