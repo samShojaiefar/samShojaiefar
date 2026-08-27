@@ -11,7 +11,7 @@ I'm interested in technology, software development, and using AI to build and le
 - 
 ## 🛠️ Technologies & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=php,py,html,css,js,java,md,ts,yaml,git,bootstrap,laravel,vue,react,nuxtjs,npm,nodejs,tailwind,vite,windows,ubuntu,docker,gradle,postman,apache,nginx&perline=9)](https://skillicons.dev)
+[![My Skills](https://img.shields.io/badge/?i=php,py,html,css,js,java,md,ts,yaml,git,bootstrap,laravel,vue,react,nuxtjs,npm,nodejs,tailwind,vite,windows,ubuntu,docker,gradle,postman,apache,nginx&perline=9)](https://skillicons.dev)
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](YOUR_DISCORD_URL)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_USERNAME)
