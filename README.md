@@ -2,13 +2,6 @@
 
 I'm interested in technology, software development, and using AI to build and learn more effectively.
 
-## About Me
-
-- 💻 Exploring programming and modern development tools
-- 🤖 Interested in artificial intelligence and automation
-- 🌱 Continuously learning and improving my skills
-- 🛠️ Building projects and experimenting with new ideas
-
 <code>Frontend Developer</code> · <code>Software Developer</code> · <code>React & Next.js</code>
 
 <br>
