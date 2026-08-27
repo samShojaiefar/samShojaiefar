@@ -22,6 +22,7 @@ I'm interested in technology, software development, and using AI to build and le
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxt&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white)
 
 ![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
 ![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=flat-square&logo=antdesign&logoColor=white)
@@ -38,4 +39,4 @@ I'm interested in technology, software development, and using AI to build and le
 
 ## Contact Me
 
-[![Telegram](https://img.shields.io/badge/Telegram-Contact_Me-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/YOUR_USERNAME)
+[![Telegram](https://img.shields.io/badge/Telegram-Contact_Me-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/samShojaeifar)
