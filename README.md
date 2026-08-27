@@ -1,6 +1,6 @@
 # Hi, I'm Sam
 
-I'm interested in technology, software development, and using AI to build and learn more effectively.
+I'm a frontend developer passionate about building clean, modern, and user-friendly web experiences while exploring AI to learn faster and create smarter solutions.
 
 <code>Frontend Developer</code> · <code>Software Developer</code> · <code>React & Next.js</code>
 
@@ -13,7 +13,7 @@ I'm interested in technology, software development, and using AI to build and le
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxt&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-00DC82?style=flat-square&logo=nuxt&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white)
 
