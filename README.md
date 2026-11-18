@@ -28,8 +28,4 @@ I'm a frontend developer building clean, modern, user-friendly web experiences w
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 
-## Contact Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sam_Shojaiefar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sam-shojaiefar-8a752229b/)
-[![Telegram](https://img.shields.io/badge/Telegram-Contact_Me-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/samShojaeifar)
-
 <img src="koi/koi.gif" width="256" alt="My koi" />
