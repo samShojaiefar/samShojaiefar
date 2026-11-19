@@ -1,4 +1,4 @@
-# Hi, I'm Sam
+# Hi, I'm Sam 👾
 
 I'm a frontend developer building clean, modern, user-friendly web experiences while exploring AI to create smarter solutions.
 
